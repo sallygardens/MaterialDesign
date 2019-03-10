@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="user_profile_photo">http://n.sinaimg.cn/news/1_img/upload/cf3881ab/66/w1000h666/20190305/qzbm-htwhfzs2600104.jpg</string>
+    <plurals name="likes_count">
+        <item quantity="one">%d 赞</item>
+        <item quantity="other">%d 赞</item>
+    </plurals>
+    <string-array name="user_photos">
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/448/w1024h1024/20190306/wNBk-htwhfzs7004425.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/565/w1500h1465/20190306/JOil-htwhfzs7012605.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/144/w2048h1296/20190306/GXt3-htwhfzs7000890.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/123/w1500h1023/20190306/cIsC-htwhfzs6994010.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/799/w1920h1279/20190306/Tuua-htwhfzs6994069.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/300/w1080h1620/20190306/mBke-htwhfzs7012282.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/96/w2048h2048/20190306/jyva-htwhfzs7004749.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/400/w1000h1000/20190306/851W-htwhfzs7019080.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/356/w1000h956/20190306/_4Al-htwhfzs7015747.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/600/w1500h1500/20190306/4bGb-htwhfzs7012354.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/215/w2048h1367/20190306/DZ6e-htwhfzs6999870.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/493/w1500h1393/20190306/2RuR-htwhfzs7004530.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/105/w681h1024/20190306/x9W0-htwhfzs7009109.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/311/w2048h1463/20190306/TjQS-htwhfzs7001374.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/400/w1000h1000/20190306/xTqe-htwhfzs7018968.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/599/w1500h1499/20190306/bLys-htwhfzs7004470.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/514/w2048h1666/20190306/aRlY-htwhfzs7016132.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/66/w1000h666/20190306/NgRi-htwhfzs6999681.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/214/w2048h1366/20190306/gi-4-htwhfzs7001652.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/92/w1000h692/20190306/XRge-htwhfzs7000368.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/33/w980h653/20190306/vXsT-htwhfzs6993950.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/411/w2000h811/20190306/0BtA-htwhfzs6999543.jpg</item>
+        <item>http://n.sinaimg.cn/news/1_img/upload/cf3881ab/412/w1207h805/20190306/WRP3-htwhfzs6994156.jpg</item>
+    </string-array>
+</resources>
